@@ -1,7 +1,8 @@
 # Site settings
-title: Know me
-email: b1xbao2@hotmail.com
-description: A Serious Learner
+Deploy:
+  title: Daisy BAO
+  email: b1xbao2@hotmail.com
+  description: A Serious Learner
 # > # this means to ignore newlines until "baseurl:"
 #   Happy to see new things
 ##  research  travel
